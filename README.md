@@ -1,6 +1,6 @@
 Assignment 1 - Hello World: GitHub and d3
 ===
-### url: https://PerveilerJR.github.io/ai-ghd3
+### url: https://JRPerveiler.github.io/ai-ghd3
 
 Description
 ---
